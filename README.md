@@ -2,6 +2,4 @@
 
 A Note taking desktop app with out-of-the-box markdown support. Built with Electron and React.
 
-You can follow along the entire development of this project here 👇
-
-[![Preview](https://github.com/gionathas/NoteMark/assets/16454253/c5072721-8c51-450d-ad74-431c65247715)](https://youtu.be/t8ane4BDyC8?si=QDnKwHR_REREtiSy)
+![image](https://github.com/TathataHY/NoteMark/assets/86846618/4fb13352-34d5-40a8-ba2c-6dd40dec9b4c)
